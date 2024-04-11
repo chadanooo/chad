@@ -1,0 +1,42 @@
+* {  
+  color: white;
+  margin: 0;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+div, p, h1, h2, ul, li, img, p, span {  
+  background-color: transparent;
+}
+
+body {
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+/*   
+  background: rgb(34,34,34);
+background: linear-gradient(100deg, rgba(34,34,34,1) 0%, rgba(38,98,136,1) 57%, rgba(70,217,252,1) 100%); */
+}
+
+h1 {
+  font-size: 44px;
+}
+
+h1, p {
+  font-family: League Spartan;
+}
+
+p {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-family: Cardo;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+

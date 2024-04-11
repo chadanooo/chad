@@ -1,0 +1,46 @@
+.division-line {
+  border-style: solid;
+  border-width: 1px;
+  height: 3px;
+}
+
+.email-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+}
+
+.email-border {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacts-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.social-text {
+  text-align: center;
+}
+
+.contact-icon {
+  width: 30px;
+  margin: 4px;
+}
+
+.connect-text {
+  font-weight: 500;
+}
+
+.email-border p {  
+  color: black;
+}
